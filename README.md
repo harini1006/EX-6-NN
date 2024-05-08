@@ -61,7 +61,7 @@ print("\nClassification Report:")
 print(classification_rep)
 ```
 
-<H3>Output:</H3>
+## Output:
 ![323846134-ca59d71b-71db-42bd-a280-7a6a3acba4bb](https://github.com/harini1006/EX-6-NN/assets/113497405/a6ebcb29-7b45-4d43-bde1-8acd3399c2b4)
 
 
